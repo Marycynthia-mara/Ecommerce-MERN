@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce-mern",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This is an ecommerce site that is built using the MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marycynthia-mara/Ecommerce-MERN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marycynthia-mara/Ecommerce-MERN/issues"
+  },
+  "homepage": "https://github.com/Marycynthia-mara/Ecommerce-MERN#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-plugin-react": "^7.27.1",
+    "nodemon": "^2.0.15"
+  }
+}
