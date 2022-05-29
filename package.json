@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Marycynthia-mara/Ecommerce-MERN#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
   },
   "devDependencies": {
     "eslint": "^8.5.0",
